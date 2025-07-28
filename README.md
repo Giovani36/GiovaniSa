@@ -9,28 +9,5 @@ Me chamo Giovani Sá, tenho 37 anos e sou natural de Juiz de Fora/MG. Tenho form
     </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Oracle"
-    title="Oracle" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
-/>
 
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-
-<br/>
