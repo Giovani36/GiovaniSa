@@ -20,7 +20,7 @@ Estou em constante aprendizado e aprimoramento, com foco nas seguintes tecnologi
 Categoria	Habilidades
 Bancos de Dados	Oracle SQL <br>
 Análise de Dados	Power BI <br>
-Programação	Python <br>
+Aprendendo Python <br>
 
 
 
