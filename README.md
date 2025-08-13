@@ -9,3 +9,9 @@ Categoria	Habilidades
 Bancos de Dados	Oracle SQL <br>
 Análise de Dados	Power BI <br>
 Programação	Python <br>
+
+
+Meus Projetos 💡
+Aqui você pode encontrar alguns dos projetos em que estou trabalhando, que refletem meu aprendizado e paixão por dados:
+[Analises de guias 1]: Neste projeto utilizei basicamente linguem Sql e Power B.i.
+https://github.com/Giovani36/GiovaniSa/issues/1
